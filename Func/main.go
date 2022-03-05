@@ -4,7 +4,8 @@ import (
 	"fmt"
 )
 
-func add(x int, y int) int { // Tipo sempre dopois do nome da variável
+func add(x int, y int) int { // ou pode ser declarado como (x, y int)
+	// Tipo sempre dopois do nome da variável
 	return x + y
 }
 
