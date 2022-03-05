@@ -8,3 +8,4 @@ Estudo de GoLang.
 ### 4. [Func](./Func/README.md)
 ### 5. [Variáveis](./Variaveis/)
 ### 6. [Constantes](./Constantes/README.md)
+### 7. [For](./For/README.md)
