@@ -13,3 +13,4 @@ Estudo de GoLang.
 ### 6. [Constantes](./Constantes/README.md)
 ### 7. [For](./For/README.md)
 ### 8. [If](./If/README.md)
+### 9. [Switch](./Switch/README.md)
