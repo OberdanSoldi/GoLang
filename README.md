@@ -6,3 +6,4 @@ Estudo de GoLang.
 ### 2. [Pacotes](./Packages/README.md)
 ### 3. [Export](./Export/README.md)
 ### 4. [Func](./Func/README.md)
+### 5. [Variáveis](./Variaveis/)
