@@ -7,3 +7,4 @@ Estudo de GoLang.
 ### 3. [Export](./Export/README.md)
 ### 4. [Func](./Func/README.md)
 ### 5. [Variáveis](./Variaveis/)
+### 6. [Constantes](./Constantes/README.md)
